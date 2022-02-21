@@ -2,7 +2,7 @@
 
 ## Purpose
 The purpose of this project was to create a password generator that would generate a random password bassed
-on accepted criteria of: password length and usage of numbers, letters, and symbols.
+on accepted criteria of: password length and usage of numbers, letter, and symbols.
 
 Javascript, HTML and CSS were the technologies used for this project because these two languages allowed for the website
 to function in the exact same way even after changes were made to the HTML and CSS. A few things to note are: the index.html
