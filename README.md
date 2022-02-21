@@ -20,7 +20,7 @@ can also be downloaded, but the files would need to be extracted afterwards.
 ## Screenshots of the Project
 
 ![Screenshot for initial website loadup showing password generator](./assets/images/screenshots.on.loadup.jpg?raw=true "Pass Generator Web Screenshot")
-![Screenshot for after button interation on password generator](./assets/images/screenshots.on.btn.interaction.jpg?raw=true "Pass Generator Web Screenshot")
+![Screenshot for after button interation on password generator](./assets/images/screenshot.on.btn.interaction.jpg?raw=true "Pass Generator Web Screenshot")
 
 
 ##License 
